@@ -26,8 +26,5 @@ flutter:
   # adding or updating assets for this project.
   plugin:
     platforms:
-      android:
-        package: top.autopc.show_network_interface_info
-        pluginClass: ShowNetworkInterfaceInfoPlugin
       windows:
         pluginClass: ShowNetworkInterfaceInfoPlugin
